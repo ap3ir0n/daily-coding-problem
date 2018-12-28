@@ -27,6 +27,7 @@ class ProblemOneTest extends TestCase
             [ [10, 15, 3, 7], 17, true ],
             [ [10, 15, 3, 7], 25, true ],
             [ [10, 15, 3, 7], 26, false ],
+            [ [10, 15, 3, 7], 6, false ],
         ];
     }
 }
